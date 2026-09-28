@@ -1,3 +1,7 @@
+## v4.0
+
+- Add inotify block-device watcher for SD card (64ba6e7)
+
 ## v3.9
 
 - feat: inotify block watcher for SD card remount (PHASE 4) (d3faff9)

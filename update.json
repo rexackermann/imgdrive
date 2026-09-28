@@ -1,6 +1,6 @@
 {
-  "version": "v3.9",
-  "versionCode": 30,
-  "zipUrl": "https://github.com/rexackermann/imgdrive/releases/download/v3.9/imgdrive-v3.9.zip",
+  "version": "v4.0",
+  "versionCode": 31,
+  "zipUrl": "https://github.com/rexackermann/imgdrive/releases/download/v4.0/imgdrive-v4.0.zip",
   "changelog": "https://raw.githubusercontent.com/rexackermann/imgdrive/main/CHANGELOG.md"
 }
