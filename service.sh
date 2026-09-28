@@ -156,6 +156,10 @@ done
 # ---------------------------------------------------------------------------
 _sep "PHASE 4: inotify block watcher"
 
+_sep "Patch: running startup mount"
+
+"$CTL" -c "$PRIMARY_CONF" mount >> "$LOGFILE" &
+
 TERMUX_BIN="/data/data/com.termux/files/usr/bin"
 _INOTIFY="$TERMUX_BIN/inotifywait"
 _PIDFILE="/tmp/.imgdrive_watcher.pid"
